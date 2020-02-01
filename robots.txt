@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fauquoniet.1.siteleaf.net/sitemap.xml
